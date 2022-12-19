@@ -2,8 +2,8 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Static site generator
+Een static site gegeration maken van de website van sprint 14 en de performance testen.
 
 ## Inhoudsopgave
 
