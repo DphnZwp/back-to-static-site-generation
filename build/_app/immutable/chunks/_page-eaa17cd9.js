@@ -1,0 +1,1 @@
+import{c,e as a}from"./prismicio-7b52bd5b.js";async function i({fetch:e,params:o,request:n}){const{uid:r}=o,t=await c({fetch:e,request:n}).getByUID("story",r);if(t)return{document:t};a(404,"Not found")}const u=Object.freeze(Object.defineProperty({__proto__:null,load:i},Symbol.toStringTag,{value:"Module"}));export{u as _,i as l};

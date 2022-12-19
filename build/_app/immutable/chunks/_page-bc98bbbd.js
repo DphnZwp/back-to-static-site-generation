@@ -1,0 +1,1 @@
+import{c as n,e as r}from"./prismicio-7b52bd5b.js";async function a({fetch:t,request:o}){const e=await n({fetch:t,request:o}).getAllByType("story");if(e)return{documents:e};r(404,"Not found")}const s=Object.freeze(Object.defineProperty({__proto__:null,load:a},Symbol.toStringTag,{value:"Module"}));export{s as _,a as l};
