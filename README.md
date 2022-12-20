@@ -18,7 +18,7 @@ Een static site gegeration maken van de website van sprint 14 en de netwerk snel
 
 ## Beschrijving
 
-[🌐 https://lose-your-head-the-client-case-bice.vercel.app/](https://lose-your-head-the-client-case-bice.vercel.app/)
+[🌐 https://back-to-static-site-generation-sepia.vercel.app/](https://back-to-static-site-generation-sepia.vercel.app/)
 
 
 ## Kenmerken
