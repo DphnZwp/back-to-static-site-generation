@@ -3,7 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Static site generator
-Een static site gegeration maken van de website van sprint 14 en de performance testen.
+Een static site gegeration maken van de website van sprint 14 en de netwerk snelheid testen.
 
 ## Inhoudsopgave
 
