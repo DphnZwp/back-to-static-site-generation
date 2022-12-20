@@ -5,6 +5,8 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 # Static site generator
 Een static site gegeration maken van de website van sprint 14 en de netwerk snelheid testen.
 
+![screencapture-127-0-0-1-5173-2022-10-14-11_54_54](https://user-images.githubusercontent.com/69635977/195827530-bbf84351-31c8-4c44-9e75-a8f2e48e64c6.png)
+
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
@@ -15,9 +17,9 @@ Een static site gegeration maken van de website van sprint 14 en de netwerk snel
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+
+[🌐 https://lose-your-head-the-client-case-bice.vercel.app/](https://lose-your-head-the-client-case-bice.vercel.app/)
+
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
