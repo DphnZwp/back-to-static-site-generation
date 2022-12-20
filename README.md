@@ -3,6 +3,8 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Static site generator
+[🌐 https://back-to-static-site-generation-sepia.vercel.app/](https://back-to-static-site-generation-sepia.vercel.app/)
+
 Een static site gegeration maken van de website van sprint 14 en de netwerk snelheid testen.
 
 ![screencapture-127-0-0-1-5173-2022-10-14-11_54_54](https://user-images.githubusercontent.com/69635977/195827530-bbf84351-31c8-4c44-9e75-a8f2e48e64c6.png)
@@ -17,8 +19,7 @@ Een static site gegeration maken van de website van sprint 14 en de netwerk snel
   * [Licentie](#licentie)
 
 ## Beschrijving
-
-[🌐 https://back-to-static-site-generation-sepia.vercel.app/](https://back-to-static-site-generation-sepia.vercel.app/)
+Bekijk de [Wiki](https://github.com/DphnZwp/back-to-static-site-generation/wiki) om te bekijken wat de resultaten zijn van de netwerk test.
 
 
 ## Kenmerken
