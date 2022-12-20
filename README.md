@@ -19,7 +19,7 @@ Een static site gegeration maken van de website van sprint 14 en de netwerk snel
   * [Licentie](#licentie)
 
 ## Beschrijving
-Bekijk de [Wiki](https://github.com/DphnZwp/back-to-static-site-generation/wiki) om te bekijken wat de resultaten zijn van de netwerk test.
+Bekijk de [Wiki](https://github.com/DphnZwp/back-to-static-site-generation/wiki) als je de resultaten van de netwerk test wilt weten.
 
 
 ## Kenmerken
